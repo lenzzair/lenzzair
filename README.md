@@ -19,7 +19,9 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=lenzzair&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenzzair&layout=compact&theme=radical)
+
+
 
 
 ---
