@@ -1,7 +1,32 @@
-# Hi there 👋
+# 👋 Hello, I'm Lenzzair (Lenny Lambert)
 
-🎓 2nd-year Networks & Telecom student with a Cybersecurity focus  
-🐧 Passionate about Linux, Docker, DevOps & Web Development  
-🔐 Learning more about Cybersecurity every day  
+🎓 **2nd-year Networks & Telecommunications student** with a focus on **Cybersecurity**  
+🐧 Passionate about **Linux infrastructure**, **Docker**, **DevOps**, **Ethical hacking** and **Web/App Development**  
+🔒 Constantly improving my skills in **Cybersecurity and system administration**  
+🚀 Always open to collaborating on new projects and learning new technologies  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenzzair&show_icons=true&theme=radical)
+---
+
+## 🔧 Technologies & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+![Lenzzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenzzair&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to reach me
+- ✉️ Email: `lenny@l-lambert.fr`
+- 🌐 Website/Portfolio (in build): https://www.l-lambert.fr
+
+---
+
+*Always learning, always building 🔥*
