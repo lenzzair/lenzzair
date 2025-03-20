@@ -20,7 +20,7 @@
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenzzair&layout=compact&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=lenzzair&theme=radical)
 
 
 
