@@ -19,7 +19,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Lenzzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenzzair&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=lenzzair&theme=radical)
+
 
 ---
 
