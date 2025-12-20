@@ -20,7 +20,7 @@ Mindset : Always learning, always building 🔥
 ``` 
 
 ---
-```md
+
 # 🐧 System & Shell
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) 
 ![NixOS](https://img.shields.io/badge/NixOS-000000?style=for-the-badge&logo=nixos&logoColor=5277C3) 
@@ -36,7 +36,6 @@ Mindset : Always learning, always building 🔥
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7) 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633) 
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-```
 
 
 
