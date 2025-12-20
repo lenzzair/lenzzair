@@ -15,7 +15,7 @@
        < | | 
          | | >
 
-Status  : 3nd-year Networks & Telecommunications student with a focus on Cybersecurity
+Status  : 3nd-year Networks & Telecommunications student with a focus on Cybersecurity, on sandwish course
 Mindset : Always learning, always building 🔥
 ``` 
 
