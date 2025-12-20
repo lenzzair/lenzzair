@@ -1,5 +1,6 @@
 # $ whoami
-        _____
+``` text
+       _____
       /  ___  \
     /  /  _  \  \
   /( /( /(_)\ )\ )\
@@ -14,7 +15,7 @@
        < | | 
          | | >
 
-
+```
 
 🎓 **3nd-year Networks & Telecommunications student** with a focus on **Cybersecurity**  
 🐧 Passionate about **Linux infrastructure**, **Docker**, **DevOps**, **Ethical hacking** and **Web/App Development**  
