@@ -15,12 +15,9 @@
        < | | 
          | | >
 
-```
-
-🎓 **3nd-year Networks & Telecommunications student** with a focus on **Cybersecurity**  
-🐧 Passionate about **Linux infrastructure**, **Docker**, **DevOps**, **Ethical hacking** and **Web/App Development**  
-🔒 Constantly improving my skills in **Cybersecurity and system administration**  
-🚀 Always open to collaborating on new projects and learning new technologies  
+Status  : 3nd-year Networks & Telecommunications student with a focus on Cybersecurity
+Mindset : Always learning, always building 🔥
+``` 
 
 ---
 
