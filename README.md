@@ -1,6 +1,22 @@
-# 👋 Hello, I'm Lenzzair (Lenny Lambert)
+# $ whoami
+        _____
+      /  ___  \
+    /  /  _  \  \
+  /( /( /(_)\ )\ )\
+ (  \  \ ___ /  /  )
+ (    \ _____ /    )    ────────────────────────────────────────────────────────
+ /(               )\    L E N Z Z A I R  —  network / systems / security
+|  \             /  |   ────────────────────────────────────────────────────────
+|    \ _______ /    |   ~ ❯ id
+ \    / \   / \    /    uid=0(root)
+   \/    | |    \/
+         | | >
+       < | | 
+         | | >
 
-🎓 **2nd-year Networks & Telecommunications student** with a focus on **Cybersecurity**  
+
+
+🎓 **3nd-year Networks & Telecommunications student** with a focus on **Cybersecurity**  
 🐧 Passionate about **Linux infrastructure**, **Docker**, **DevOps**, **Ethical hacking** and **Web/App Development**  
 🔒 Constantly improving my skills in **Cybersecurity and system administration**  
 🚀 Always open to collaborating on new projects and learning new technologies  
