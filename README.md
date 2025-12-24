@@ -53,7 +53,7 @@ Mindset : Always learning, always building 🔥
 ## How to reach me
 - ✉️ Email: `lenny@l-lambert.fr`
 - gpg key : https://keys.openpgp.org/vks/v1/by-fingerprint/F77C77E032D23175709E69BB40591FE2AACCC95E
-- 🌐 Website/Portfolio (in build): https://www.l-lambert.fr
+- 🌐 Website/Portfolio : https://www.l-lambert.fr
 
 ---
 
