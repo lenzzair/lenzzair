@@ -55,9 +55,10 @@ cyber/defensive       Hardening OS · NIS2                  running    ███
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🔧 **bootloader-kernel** (en cours) | Bootloader x86 + noyau minimal — gestion mémoire, interruptions, I/O | `ASM` `C` |
-| 🏠 **homelab** | Infra conteneurisée · Traefik TLS · CrowdSec · hardening · CI/CD | `Docker` `Ansible` `GitLab` |
-| 🚩 **ctf-iut-annecy** | Créateur & Responsable Challenges — 1er CTF Labo RT IUT Annecy | `Systems` `web` `Forensic` `Network` |
+|  **bootloader-kernel** (en cours) | Bootloader x86 + noyau minimal — gestion mémoire, interruptions, I/O | `ASM` `C` |
+|  **ctf-iut-annecy** | Créateur & Responsable Challenges — 1er CTF Labo RT IUT Annecy | `Systems` `web` `Forensic` `Network` |
+|  **homelab** | Infra conteneurisée · Traefik TLS · CrowdSec · hardening · CI/CD | `Docker` `Ansible` `GitLab` |
+
 
 ---
 
