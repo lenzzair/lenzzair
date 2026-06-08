@@ -39,6 +39,6 @@ Mindset : Always learning, always building 🔥
 ## ~ ❯ cat ./contact
 
 - ✉️ `lenny@l-lambert.fr`
-- 🔑 [GPG · D74C323E](https://keys.openpgp.org/vks/v1/by-fingerprint/D74C323E7182A06ADD98285506193B6140C7E5E4)
+- 🔑 [GPG · lenny](https://keys.openpgp.org/vks/v1/by-fingerprint/4AB19E91AC7BA52E21DDC63BFFC3E12D9CD1BA32)
 ---
 *Always learning, always building 🔥*
