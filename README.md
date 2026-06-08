@@ -19,38 +19,6 @@ Mindset : Always learning, always building 🔥
 
 ---
 
-### ~ ❯ ps aux --skills
-```
-CATEGORY              SKILL                                STATUS     LEVEL
-──────────────────────────────────────────────────────────────────────────────
-network/telecom       Routing & Switching (CCNA)           running    ██████████
-network/telecom       VLAN · Segmentation L2/L3 · HA       running    █████████░
-network/telecom       TCP/IP · DNS · DHCP · VPN            running    █████████░
-network/telecom       Firewall · PKI · Reverse Proxy       running    ████████░░
-network/telecom       Stormshield (CSNA)                   running    ████████░░
-──────────────────────────────────────────────────────────────────────────────
-sys/dev               C · ASM x86 (syscalls, mémoire)      learning   █████░░░░░
-sys/dev               Python (réseau, sécu, scripting)     running    ███████░░░
-sys/dev               Bash · Git · Doc technique           running    █████████░
-──────────────────────────────────────────────────────────────────────────────
-linux/virt            Administration Linux avancée         running    ████████░░
-linux/virt            Docker · Ansible · CI/CD GitLab      running    ████████░░
-linux/virt            Proxmox · VMware                     running    ███████░░░
-linux/virt            Grafana · Prometheus · CrowdSec      running    ██████░░░░
-──────────────────────────────────────────────────────────────────────────────
-embedded/iot          micro:bit · MicroPython              learning   █████░░░░
-embedded/iot          Protocoles RF · Radio sniffing       learning   ████░░░░░░
-embedded/iot          Hardware hacking · Cryptanalyse      learning   ████░░░░░░
-──────────────────────────────────────────────────────────────────────────────
-cyber/offensive       Pentest Web (OWASP · Burp Suite)     running    ████████░░
-cyber/offensive       Pentest Réseau · Privesc L/W         running    ████████░░
-cyber/offensive       Reverse Engineering (Ghidra · IDA)   learning   ████░░░░░░
-cyber/offensive       Pwn · Exploitation bas niveau        learning   ██░░░░░░░░
-cyber/defensive       Hardening OS · NIS2                  running    ████████░░
-──────────────────────────────────────────────────────────────────────────────
-```
----
-
 ## ~ ❯ ls ./projects
 
 | Projet | Description | Stack |
